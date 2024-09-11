@@ -1,5 +1,5 @@
 # TETRECS2024
-univeristy coursework
+# Univeristy Project 
 
 This project is a tetris style featuring a highly interactive and visually appealing user interface. The game incorporates advanced graphics, animations, and a dynamic gameplay experience. Key features include:
 
