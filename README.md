@@ -8,9 +8,9 @@ Dynamic Timer Display: Animated timer bar that shows the countdown for piece pla
 Game Progression: Timer-based piece placement with increasing difficulty as you progress.
 Customizable Experience: Options for single-player challenges with ability to see highscores.
 
-Features
-# Graphics Enhancements:
+# Features
+Graphics Enhancements:
 Tiles with animations for clearing and hover effects.
 Animated timer bar and dynamic updates.
-# Game Loop & Timer:
+Game Loop & Timer:
 Timer-based progression with a countdown before piece placement.
